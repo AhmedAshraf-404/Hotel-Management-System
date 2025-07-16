@@ -28,12 +28,15 @@ Role	Username	Password
 Manager	gerges	gerges1919
 Receptionist	hamada	hamada2121
 
-Team Contributions
-Member	Key Responsibilities
-Ahmed Ashraf	Worker CRUD, Room monitoring
-Gerges Hany	Authentication system, Core architecture
-Ziad Elnoby	Resident management system
-Omar Ehab	Financial reporting modules
+
+## 👥 Team Contributions
+
+| Member          | Key Responsibilities                          |
+|-----------------|-----------------------------------------------|
+| **Ahmed Ashraf**| Worker CRUD operations, Room status monitoring|
+| **Gerges Hany** | Login/Logout system, Dashboard menu,<br>Full code merging and debugging |
+| **Ziad Elnoby** | Resident Add/Edit/Delete functions,<br>Room assignment system |
+| **Omar Ehab**   | Financial reporting system,<br>Cost calculation algorithms,<br>Receptionist dashboard debugging |
 
 
 ## Compilation & Usage
